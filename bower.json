@@ -1,0 +1,21 @@
+{
+  "name": "_g",
+  "version": "0.0.1",
+  "authors": [
+    "Rachid <rachid@actived.fr>"
+  ],
+  "main": "readme.md",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "three.js": "~0.70.0",
+    "angular": "~1.3.15"
+  }
+}
